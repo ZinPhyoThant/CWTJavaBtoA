@@ -11,5 +11,11 @@ public class ArrayHW {
             }
             System.out.println(Arrays.toString(a[i]));
         }
+
+        for (int i =0; i<a.length;i++){
+            for (int j=0;j<a[i].length;j++){
+                System.out.println(a[i][j]);
+            }
+        }
     }
 }
