@@ -1,0 +1,31 @@
+YouTube
+1. Java စလုပ်မယ်ဆို
+
+jre             => java runtime environment (အသုံးပြုမယ့်သူ)
+jdk             => java development kit (ရေးမယ့်သူ) jdk မှာ jre ပါပြီးသား
+intellij IDE    => Integrated Development environment
+jdk download
+java 8 ကိုသုံး software တွေရေးရင်ပိုအဆင်ပြေတယ်.
+WinKey+R =>java -version   //Jdk စစ်တာ
+Properties -> advance setting -> environemt setting -> User variables -> Name (JavaJDK) -> jdk ထဲက bin ကနေ copy
+-> path ထဲမှာထည့်ပေးမယ်
+!#!#!#!#!#!$!$$!$!$!$!$!$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+variable class
+
+variable ဆိုတာ data တွေကိုသိမ်းပေးတဲ့နေရာ/ အလွယ်တကူပြန်အသုံးချနိုင်အောင် / Container လိုမျိုး
+1.DataType
+2.Variable
+3.Assign Operator
+4.Value
+5.End Operator
+1,2,3,4,5 အကုန်ပါရင် Inization လို့ခေါ်တယ်.
+1,2,3,5 ဆိုရင် Declaration/Declare လုပ်တာလို့ခေါ်တယ်.
+
+comment သုံးမျိုးရှိတယ်
+//      - Single Line Comment
+/* */   - Multi line Comment
+/** **/ - Documentation Comment
+!#!#!#!#!#!$!$$!$!$!$!$!$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
