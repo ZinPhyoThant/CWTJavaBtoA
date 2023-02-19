@@ -1,10 +1,24 @@
 package com.cwtzoom.lesson.youtube;
 
+import java.util.Scanner;
+
 public class Syntax {
     public static void main(String[] args) {
 
 
-        String color = "red";
+
+
+
+        /**
+         * DataType variable = value end operator
+         * ^ Initialization
+         *
+         * DataType variable end operator
+         * ^Declare
+         */
+
+
+
     }
 }
 /**

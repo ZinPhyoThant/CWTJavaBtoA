@@ -1,0 +1,12 @@
+public  -> access modifier
+static  -> non-access modifier
+void    -> return type
+main    -> identifier
+
+staic ကို object မဆောက်ချင်လို့သုံးတာ
+instacne က object ဆောက်စရာမလိုဘူး
+
+eat(); method ကိုပြန်ခေါ်သုံးတာ
+eat(){}
+
+Remark->method ကို method ထဲမှာပြန်ဖန်တီးလို့မရဘူး|ခေါ်သုံးလို့တော့ရတယ်.

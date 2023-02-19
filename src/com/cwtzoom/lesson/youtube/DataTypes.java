@@ -32,4 +32,11 @@ public class DataTypes {
  * ->String
  * ->Array
  * -etc...
+ *
+ * byte  -> 1 byte or 8 bits    -> default value 0
+ * short -> 2 byte s or 16 bits -> default value 0
+ * int   -> 4 bytes or 32 bits  -> o
+ * long  -> 8 bytes or 64 bits  -> 0
+ *
+ * 1 byte 128 to 127
  */

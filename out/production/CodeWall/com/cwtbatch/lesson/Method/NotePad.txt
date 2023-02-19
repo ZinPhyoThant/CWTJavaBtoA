@@ -1,0 +1,35 @@
+Factorial
+5! = 120
+1*2*3*4*5 = 120
+
+Object initialization
+=====================
+-Direct Ref
+-By Method -> para -> argument
+-By Constructor
+
+File Structure  -
+OOP Str         - instance/ Static
+Method Sing     - 4  return pyn - ma pyn | para/ no para
+
+Access Modifier -> public,private,protected,default
+Non-Access      -> static, final,volatile,synchronized, abstract,transient
+
++ AccessModifier +
+-public      -> all access
+-private     -> one class
+-protected   -> one folder one class
+
++ Non-StaticModifier +
+->static     -> no object on method |
+->final      -> constant (variable-> object initial) variable name ko upperletter
+->volatile   ->
+
++ Constructor +
+Syntax - ClassName (){}
+Alt + insert
+Object sout tr nae pyn call los ya tl
+
+ClssName () {}
+job -> object sout
+class 1 khu sout tai constructor 1 khu shi it called default

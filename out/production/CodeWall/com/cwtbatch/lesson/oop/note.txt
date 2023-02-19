@@ -1,0 +1,15 @@
+OOP
+-Object
+-Class
+-Inheritance
+-Polymosiphsm
+-Abstraction
+-Encapsulation
+
+global
+-instance so object sout py
+-static so object sout sa yr ma lo
+
+OOP structure - method - 2 - static & instance
+Method Structor - method - return -ပြန်တာနဲ့မပြန်တာ နဲ့ parameter -ပါတာနဲ့မပါတာ 4 ခု
+
