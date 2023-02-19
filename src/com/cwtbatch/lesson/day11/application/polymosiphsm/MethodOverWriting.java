@@ -13,9 +13,9 @@ public class MethodOverWriting {
 
 
 
-    class ckn extends MethodOverWriting {
+    static class ckn extends MethodOverWriting {
         @Override
-        void dog() {
+         void dog() {
             System.out.println("ckn has 2 legs");
             super.dog();
         }
@@ -27,7 +27,7 @@ public class MethodOverWriting {
         }
     }
 
-    public void main(String[] args) {
+    public static void main(String[] args) {
         ckn chicken = new ckn();
         chicken.dog();
         chicken.sound();
