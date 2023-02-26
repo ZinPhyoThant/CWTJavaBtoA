@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CodeWall.iml" filepath="$PROJECT_DIR$/CodeWall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeWallJavaBtoA.iml" filepath="$PROJECT_DIR$/CodeWallJavaBtoA.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.codewalljava.batch/com.codewalljava.batch.iml" filepath="$PROJECT_DIR$/com.codewalljava.batch/com.codewalljava.batch.iml" />
     </modules>
   </component>
