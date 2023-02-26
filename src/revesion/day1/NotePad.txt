@@ -1,6 +1,0 @@
-How to use git
-git init
-git add .
-git remote add origin link
-git commit -m "Name"
-git push origin branchName
